@@ -1,6 +1,6 @@
-# Market Mix Modeling
+# Marketing Mix Modeling
 
-A centralized hub for open-source Market Mix Modeling (MMM) repositories. This organization consolidates forked projects to provide a single point of access for users interested in MMM.
+A centralized hub for open-source Marketing Mix Modeling (MMM) repositories. This organization consolidates forked projects to provide a single point of access for users interested in MMM.
 
 ## Purpose and Goals
 
